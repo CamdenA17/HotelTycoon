@@ -23,6 +23,11 @@ class UIManager {
         setupTimeDisplay()
     }
     
+    func updateMoneyDisplay() {
+        moneyLabel.text = "Money: $\(money)"
+    }
+
+    
     private func setupMoneyAndDayDisplay() {
         guard let scene = scene else { return }
         

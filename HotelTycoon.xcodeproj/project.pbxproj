@@ -20,6 +20,7 @@
 				Assets.xcassets,
 				GameScene.sks,
 				GameScene.swift,
+				UIManager.swift,
 			);
 			target = EB02D8952D627A5F00B2DE89 /* HotelTycoon iOS */;
 		};
@@ -29,7 +30,6 @@
 				Actions.sks,
 				Assets.xcassets,
 				GameScene.sks,
-				GameScene.swift,
 			);
 			target = EB02D8A62D627A5F00B2DE89 /* HotelTycoon tvOS */;
 		};
@@ -39,7 +39,6 @@
 				Actions.sks,
 				Assets.xcassets,
 				GameScene.sks,
-				GameScene.swift,
 			);
 			target = EB02D8B62D627A5F00B2DE89 /* HotelTycoon macOS */;
 		};
